@@ -41,8 +41,7 @@ sys . setdefaultencoding ( 'utf8' )
 jml = []
 jmlgetdata = []
 n = []
-####################################################################
-#                        BANNER
+
 def baliho():
 	try:
 		token = open('cookie/token.log','r').read()
