@@ -51,7 +51,7 @@ def baliho():
 		name = a['name']
 		n.append(a['name'])
 
-		print R + '_     _'.center(44)
+	
 		print "o' \.=./ `o".center(44)
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
