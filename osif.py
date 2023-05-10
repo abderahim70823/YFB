@@ -23,7 +23,6 @@ else:
 try:
 	import requests
 except ImportError:
-	print R + '_     _'.center(44)
 	print "o' \.=./ `o".center(44)
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
